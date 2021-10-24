@@ -12,3 +12,6 @@ Have fun !
 
 # Game Appearance
 
+
+
+Note: To watch the gameplay, click on any of the Sample .mp4 files and click the "Download" button.
